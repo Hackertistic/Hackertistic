@@ -4,12 +4,12 @@
 
 <div align=center>
 
-![Visitor Count](https://profile-counter.glitch.me/{anniehacker}/count.svg)
+
 
 
 
 <!-- banner -->
-<img src="./assets/low_git_banner.gif">
+
 
 
 
