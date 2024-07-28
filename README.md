@@ -1,6 +1,5 @@
 
 
-
 <h1 align="center">Hi 👋, I'm Qurrat-Ul-Ain Mughal </h1>
 
 <div align=center>
