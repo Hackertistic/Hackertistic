@@ -2,7 +2,6 @@
 <img align="right" alt="Coding" width="400" src=https://github.com/user-attachments/assets/f476c5ea-01ad-40d8-8534-06df438b4bdb
 
 <h3 align="center">Don't be a programmer，Be a problem solver.
-</h3>![Visitor Count](https://profile-counter.glitch.me/{anniehacker}/count.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anniehacker&label=Profile%20views&color=0e75b6&style=flat" alt="anniehacker" /> </p>
 
