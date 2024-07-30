@@ -1,14 +1,17 @@
 
 
+
+
 <h1 align="center">Hi 👋, I'm Qurrat-Ul-Ain Mughal </h1>
 
 <div align=center>
 
 
-
+![Visitor Count](https://profile-counter.glitch.me/{anniehacker}/count.svg)
 
 
 <!-- banner -->
+<img src="./low_git_banner.gif">
 
 
 
@@ -35,7 +38,7 @@
 
 <div>
 
-<img src="./assets/akudama-drive-anime.gif" align="right" width="400px" >
+<img src="./akudama-drive-anime.gif" align="right" width="400px" >
 
 - 🌱 I’m currently learning **Python** and **Ethical Hacking**.
 
@@ -69,3 +72,4 @@
 
 
 </div>
+
