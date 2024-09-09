@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Qurrat-Ul-Ain Mughal </h1>
+<h1 align="center">Hi 👋, I'm Hackertistic </h1>
 
 <div align=center>
 
