@@ -24,11 +24,10 @@
 
 
 
-<a href="https://www.linkedin.com/in/qurrat-ul-ain-mughal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="qurrat-ul-ain-mughal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hackertistic/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="qurrat-ul-ain-mughal" height="30" width="40" /></a>
 <a href="https://www.instagram.com/annieshafiq.mughal00/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="annieshafiq.mughal00" height="30" width="40" /></a>
-<a href="https://medium.com/@annieshafiq.mughal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@annieshafiq.mughal" height="30" width="40" /></a>
-<a href="https://discord.gg/wise_courgette_14812" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wise_courgette_14812" height="30" width="40" /></a>
-<a href="https://hashnode.com/@anniehacker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@anniehacker" height="30" width="40" /></a>
+<a href="https://medium.com/@hackertistic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@annieshafiq.mughal" height="30" width="40" /></a>
+<a href="https://discord.gg/hackertistic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wise_courgette_14812" height="30" width="40" /></a>
 
 
 
