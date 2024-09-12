@@ -7,7 +7,7 @@
 <div align=center>
 
 
-![Visitor Count](https://profile-counter.glitch.me/{anniehacker}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{Hackertistic}/count.svg)
 
 
 <!-- banner -->
@@ -59,13 +59,13 @@
 
 <div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anniehacker" alt="anniehacker" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hackertistic" alt="Hackertistic" /></a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anniehacker&show_icons=true&locale=en&layout=compact" alt="anniehacker" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hackertistic&show_icons=true&locale=en&layout=compact" alt="Hackertistic" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anniehacker&show_icons=true&locale=en" alt="anniehacker" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hackertistic&show_icons=true&locale=en" alt="Hackertistic" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anniehacker&" alt="anniehacker" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hackertistic&" alt="Hackertistic" /></p>
 
 
 
