@@ -26,9 +26,10 @@
 
 
 <a href="https://www.linkedin.com/in/hackertistic/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="qurrat-ul-ain-mughal" height="30" width="40" /></a>
-<a href="https://www.instagram.com/hackertistic/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="annieshafiq.mughal00" height="30" width="40" /></a>
-<a href="https://medium.com/@hackertistic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@annieshafiq.mughal" height="30" width="40" /></a>
-<a href="https://discord.gg/hackertistic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wise_courgette_14812" height="30" width="40" /></a>
+<a href="https://www.instagram.com/hackertistic/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hackertistic" height="30" width="40" /></a>
+<a href="https://medium.com/@hackertistic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hackertistic" height="30" width="40" /></a>
+<a href="https://youtube.com/@hackertistic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hackertistic" height="30" width="40" /></a>
+<a href="https://discord.gg/hackertistic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hackertistic" height="30" width="40" /></a>
 
 
 
@@ -44,7 +45,7 @@
 
 - 🔍 I excel at performing **OSINT**.
 
-- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/qurrat-ul-ain-mughal), but be respectful.
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/hackertistic), but be respectful.
 
 - ⚡ Fun fact: I am a professional chef. Want to know some of my recipes? Check out my [YouTube Channel](https://www.youtube.com/@FriendsCookingCorner).
 </div>
