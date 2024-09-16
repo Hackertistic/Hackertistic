@@ -25,7 +25,7 @@
 
 
 
-<a href="https://www.linkedin.com/in/hackertistic/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="qurrat-ul-ain-mughal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/HackertisticOfficial/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="qurrat-ul-ain-mughal" height="30" width="40" /></a>
 <a href="https://www.instagram.com/hackertistic/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hackertistic" height="30" width="40" /></a>
 <a href="https://medium.com/@hackertistic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hackertistic" height="30" width="40" /></a>
 <a href="https://youtube.com/@hackertistic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hackertistic" height="30" width="40" /></a>
@@ -45,13 +45,13 @@
 
 - 🔍 I excel at performing **OSINT**.
 
-- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/hackertistic), but be respectful.
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/HackertisticOfficial), but be respectful.
 
 - ⚡ Fun fact: I am a professional chef. Want to know some of my recipes? Check out my [YouTube Channel](https://www.youtube.com/@FriendsCookingCorner).
 </div>
 
 <div align="center">
-<a href='https://tryhackme.com/p/Qurratulain'>
+<a href='https://tryhackme.com/p/Hackertistic'>
 <img src="https://tryhackme-badges.s3.amazonaws.com/Qurratulain.png" alt="TryHackMe"></a>
 </div>
 
